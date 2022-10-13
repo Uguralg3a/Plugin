@@ -1,0 +1,6 @@
+main: com.angel.plugin.Plugin
+name: "Plugin"
+version: 1.19
+description: PLUGIN. PLUGINNNN
+commands:
+  test:
